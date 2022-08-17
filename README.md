@@ -1,2 +1,4 @@
 # Samuel Z. Grunebaum
-Personal website
+My personal website.
+
+Copyright Samuel Grunebaum
