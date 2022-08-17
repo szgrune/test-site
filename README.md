@@ -1,2 +1,2 @@
-# szgrune.github.io
+# Samuel Z. Grunebaum
 Personal website
