@@ -1,1 +1,6 @@
+@import "variables";
 
+html {
+  font-family: $primary-font;
+  color: $text-color;
+}
