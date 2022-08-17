@@ -1,0 +1,9 @@
+name: Samuel Grunebaum
+markdown: kramdown
+permalink: pretty
+
+sass:
+  style: :expanded
+  sass_dir: assets/css
+
+exclude: ["LICENSE", "README.md", "CNAME"]
