@@ -4,3 +4,23 @@ html {
   font-family: $primary-font;
   color: $text-color;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  &,
+  &:before,
+  &:after {
+    box-sizing: inherit;
+  }
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+body {
+  overflow: hidden;
+  background-color: white;
+}
