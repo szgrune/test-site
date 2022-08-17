@@ -4,6 +4,6 @@ permalink: pretty
 
 sass:
   style: :expanded
-  sass_dir: assets/css
+  sass_dir: /assets/css
 
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "CNAME"]
